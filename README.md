@@ -64,3 +64,27 @@ HotelManagementSystem/
 │               └── ReportServlet.java
 └── DB/
     └── hotel_db.sql
+
+
+⚙️ Setup Instructions
+1. 🛢️ Database Setup
+Import the SQL file:
+
+mysql -u root -p < hotel_db.sql
+
+Update credentials in ReservationDao.java:
+
+private String jdbcURL = "jdbc:mysql://localhost:3306/hotel_db";
+private String jdbcUsername = "root";
+private String jdbcPassword = "your_password";
+----------------------
+
+🧩 Run the Project
+Open in Eclipse, NetBeans, or IntelliJ.
+
+Configure Apache Tomcat server.
+
+Deploy project to Tomcat.
+
+Visit in browser:http://localhost:8080/Hotel_WebApp/
+
