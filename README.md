@@ -80,6 +80,7 @@ private String jdbcURL = "jdbc:mysql://localhost:3306/hotel_db";
 private String jdbcUsername = "root";
 
 private String jdbcPassword = "your_password";
+
 ----------------------
 
 🧩 Run the Project
