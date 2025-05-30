@@ -76,7 +76,9 @@ mysql -u root -p < hotel_db.sql
 Update credentials in ReservationDao.java:
 
 private String jdbcURL = "jdbc:mysql://localhost:3306/hotel_db";
+
 private String jdbcUsername = "root";
+
 private String jdbcPassword = "your_password";
 ----------------------
 
