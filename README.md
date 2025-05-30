@@ -65,6 +65,7 @@ HotelManagementSystem/
 └── DB/
     └── hotel_db.sql
 
+```
 
 ⚙️ Setup Instructions
 1. 🛢️ Database Setup
@@ -86,5 +87,5 @@ Configure Apache Tomcat server.
 
 Deploy project to Tomcat.
 
-Visit in browser:http://localhost:8080/Hotel_WebApp/
+Visit in browser:(http://localhost:8080/Hotel_WebApp/)
 
