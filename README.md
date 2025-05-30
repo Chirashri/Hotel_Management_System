@@ -18,10 +18,10 @@
 > Upload these screenshots in your repo (`/screenshots/` folder) and replace URLs below accordingly.
 
 ### 📋 Reservation Form
-[for reservation}:<https://github.com/Chirashri/Hotel_Management_System/blob/main/addreservation.png>
+[for reservation]:(<https://github.com/Chirashri/Hotel_Management_System/blob/main/addreservation.png>)
 
 ### 📊 Reports Page
-[viewing the reporte]:<https://github.com/Chirashri/Hotel_Management_System/blob/main/viewreservation.png>
+[viewing the reporte]:(<https://github.com/Chirashri/Hotel_Management_System/blob/main/viewreservation.png>)
 
 ### 📃 Confirmation Page
 <img src="screenshots/confirmation_page.png" alt="Confirmation Page" width="700"/>
