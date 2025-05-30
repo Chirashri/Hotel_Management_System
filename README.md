@@ -69,11 +69,11 @@ HotelManagementSystem/
 
 ⚙️ Setup Instructions
 1. 🛢️ Database Setup
-Import the SQL file:
+### Import the SQL file:
 
 mysql -u root -p < hotel_db.sql
 
-Update credentials in ReservationDao.java:
+### Update credentials in ReservationDao.java:
 
 private String jdbcURL = "jdbc:mysql://localhost:3306/hotel_db";
 
